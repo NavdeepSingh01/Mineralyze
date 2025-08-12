@@ -10,13 +10,19 @@ const About = () => {
       description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus totam cumque odit quasi esse officia.',
     },
     {
-      name: 'Ayush',
+      name: 'Navdeep',
       role: 'NITRR student',
       image: '',
       description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus totam cumque odit quasi esse officia.',
     },
     {
-      name: 'Ayush',
+      name: 'Shruti',
+      role: 'NITRR student',
+      image: '',
+      description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus totam cumque odit quasi esse officia.',
+    },
+    {
+      name: 'Nimit',
       role: 'NITRR student',
       image: '',
       description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus totam cumque odit quasi esse officia.',
